@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TankWars:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TankWars_jar</output-path>
+    <root id="archive" name="TankWars.jar">
+      <element id="module-output" name="TankWars" />
+    </root>
+  </artifact>
+</component>
